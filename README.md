@@ -12,7 +12,7 @@ Check the demo hosted on heroku https://simplest-react-todo-app.herokuapp.com/.
 
 First clone this repository.
 ```bash
-$ git clone https://github.com/kabirbaidhya/react-todo-app.git
+$ git clone https://github.com/arsdmnzr/devops_todo.git
 ```
 
 Install dependencies. Make sure you already have [`nodejs`](https://nodejs.org/en/) & [`npm`](https://www.npmjs.com/) installed in your system.
